@@ -1,0 +1,10 @@
+C:\Users\gg179936\Desktop\C# Projects\Chapter 5\FruitLoops\FruitLoops\bin\Debug\FruitLoops.exe.config
+C:\Users\gg179936\Desktop\C# Projects\Chapter 5\FruitLoops\FruitLoops\bin\Debug\FruitLoops.exe
+C:\Users\gg179936\Desktop\C# Projects\Chapter 5\FruitLoops\FruitLoops\bin\Debug\FruitLoops.pdb
+C:\Users\gg179936\Desktop\C# Projects\Chapter 5\FruitLoops\FruitLoops\obj\Debug\FruitLoops.csprojAssemblyReference.cache
+C:\Users\gg179936\Desktop\C# Projects\Chapter 5\FruitLoops\FruitLoops\obj\Debug\FruitLoops.Form1.resources
+C:\Users\gg179936\Desktop\C# Projects\Chapter 5\FruitLoops\FruitLoops\obj\Debug\FruitLoops.Properties.Resources.resources
+C:\Users\gg179936\Desktop\C# Projects\Chapter 5\FruitLoops\FruitLoops\obj\Debug\FruitLoops.csproj.GenerateResource.cache
+C:\Users\gg179936\Desktop\C# Projects\Chapter 5\FruitLoops\FruitLoops\obj\Debug\FruitLoops.csproj.CoreCompileInputs.cache
+C:\Users\gg179936\Desktop\C# Projects\Chapter 5\FruitLoops\FruitLoops\obj\Debug\FruitLoops.exe
+C:\Users\gg179936\Desktop\C# Projects\Chapter 5\FruitLoops\FruitLoops\obj\Debug\FruitLoops.pdb
